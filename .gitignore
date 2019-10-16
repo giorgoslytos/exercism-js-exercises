@@ -1,0 +1,5 @@
+.exercism
+*.json
+node_modules
+.eslintrc
+*.config.js
